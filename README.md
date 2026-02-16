@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I’m Amatullah, a Data Engineer with a background in Computer Science. I build pipelines, explore data architecture in depth, and enjoy expressing technical insights through writing.
 <!--
 **mahmudamatullah/mahmudamatullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
