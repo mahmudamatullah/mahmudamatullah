@@ -8,6 +8,6 @@ I also enjoy sharing technical knowledge through writing, because documenting pr
 
 | Project | Description | Tech stack |
 |---------|-------------|------|
-| [s3-to-redshift-data-pipeline](https://github.com/mahmudamatullah/s3-to-redshift-data-pipeline/tree/main) | A cloud data pipeline that automatically loads generated artificial transaction data from s3 to Amazon Redshift using Airflow and Terraform. | (AWS (Redshift + S3), Terraform, Airflow, etc.) |
+| [s3-to-redshift-data-pipeline](https://github.com/mahmudamatullah/s3-to-redshift-data-pipeline/tree/main) | A Terraform-provisioned cloud data pipeline that loads generated synthetic transaction data into Amazon S3, and then into Amazon Redshift using Airflow. |
 | [Project Name](Repo Link) | 1–2 line description | Tools used |
 | [Project Name](Repo Link) | 1–2 line description | Tools used |
