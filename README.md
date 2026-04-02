@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🎀
 
 I’m Amatullah, a Data Engineer with a Computer Science background. I build pipelines and love deep dives into data architecture.
 I also enjoy sharing technical knowledge through writing because documenting problems is as important as solving them.
